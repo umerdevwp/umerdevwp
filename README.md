@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About:
 Experienced Development Manager adept in all stages of advanced web development. Knowledgeable in user interface, user experience, developing, testing, and debugging web development and mobile application development processes. Bringing forth expertise in design, developing, installation, testing and maintenance of web and mobile systems. Equipped with a diverse and promising skill-set. Proficient in an assortment of technologies, including HTML4/HTML5, JavaScript, jQuery, AJAX, CSS2/CSS3, Twitter Bootstrap, SQL, HTML, PHP, MySQL, Apache, WordPress Core Development, ExpressionEngine, Joomla, Drupal, Magento, Facebook Applications, Payment Methods Integration, GMAP3 API, Laravel 4, Yii, CodeIgniter, Symfony, Angular.js, React Native Applications. Able to effectively self-manage during independent projects, as well as collaborate in a team setting or manage a team.
 
 
